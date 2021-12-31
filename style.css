@@ -1,0 +1,13 @@
+body
+{
+    text-align: center;
+    color: white;
+    background-color: rgb(45, 100, 172);
+    
+}
+img
+{
+    border-style: solid;
+    border: rgb(255, 255, 255);
+    border-width: 3px ;
+}
